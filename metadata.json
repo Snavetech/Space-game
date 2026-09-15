@@ -1,0 +1,6 @@
+{
+  "name": "Arcade Shmup",
+  "description": "Vertical arcade shoot 'em up game with 12 power-ups, synergies, and hangar upgrades.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
